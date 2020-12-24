@@ -10,4 +10,4 @@ Replication Procedure
 4. First time the browser console will display "Refreshing this component!" message.
 5. Again click on the button won't display the message( "Refreshing this component!").
 
-
+Note : MyComponent and Button click codes will be in Main.fs file
